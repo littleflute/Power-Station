@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Some Like It Hot.mp3";		
+f[2]	= "02 Murderess.mp3";		
+f[3]	= "03 Lonely Tonight.mp3";		
+f[4]	= "04 Communication.mp3";		
+f[5]	= "05 Get It On (Bang a Gong).mp3";		
+f[6]	= "06 Go to Zero.mp3";		
+f[7]	= "07 Harvest for the World.mp3";		
+f[8]	= "08 Still in Your Heart.mp3";		
